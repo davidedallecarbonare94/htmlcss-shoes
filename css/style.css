@@ -42,3 +42,19 @@
 .red+.green{
     color: yellow;
 }
+.button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
+.number{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    margin: 10px;
+}
